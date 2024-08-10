@@ -13,3 +13,10 @@ body{
     background-color: black;
     padding-bottom: 40px;
 }
+
+.backgroundScreen {
+    width: 700px;
+    margin: 30px;
+    border-radius: 5px;
+    background-color: #fff;
+ }
