@@ -19,4 +19,10 @@ body{
     margin: 30px;
     border-radius: 5px;
     background-color: #fff;
- }
+}
+
+header {
+    display: grid;
+    grid-template-columns: 140px 1fr 25px 35px 25px 43px;
+    margin-bottom: 25px;
+}
