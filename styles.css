@@ -27,6 +27,12 @@ header {
     margin-bottom: 25px;
 }
 
+time{
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
 .bluetooth, .wifi, .battery{
     display: flex;
     align-self: center;
