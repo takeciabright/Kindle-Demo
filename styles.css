@@ -26,3 +26,21 @@ header {
     grid-template-columns: 140px 1fr 25px 35px 25px 43px;
     margin-bottom: 25px;
 }
+
+.bluetooth, .wifi, .battery{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+}
+
+.battery{
+    width: 25px ;
+}
+
+.wifi{
+    width: 20px;
+}
+
+.bluetooth{
+    width: 10px
+}
