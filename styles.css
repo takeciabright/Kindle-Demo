@@ -56,3 +56,11 @@ time, .toggleBtn{
 .bluetooth{
     width: 10px
 }
+
+.search{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    margin: 25px;
+}
