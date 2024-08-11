@@ -27,10 +27,16 @@ header {
     margin-bottom: 25px;
 }
 
-time{
+time, .toggleBtn{
     display: flex;
     justify-self: center;
     align-self: center;
+}
+
+.arrow{
+    width: 80px;
+    height: 12px;
+    cursor: pointer;
 }
 
 .bluetooth, .wifi, .battery{
