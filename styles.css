@@ -146,3 +146,7 @@ time, .toggleBtn{
     row-gap: 10px;
     column-gap: 10px;
 }
+
+.books img{
+    width: 195px;
+}
