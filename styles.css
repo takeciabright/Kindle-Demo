@@ -115,4 +115,11 @@ time, .toggleBtn{
     width: 20px;
     margin-right: 25px;
 }
+
+.bookCatolog{
+    max-height: 650px;
+    border-top: 2px solid rgba(128, 128, 128, 0.225);
+    margin-right: 25px;
+    overflow-y: scroll;
+}
  
