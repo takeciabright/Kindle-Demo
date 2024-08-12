@@ -122,4 +122,18 @@ time, .toggleBtn{
     margin-right: 25px;
     overflow-y: scroll;
 }
+
+/* Scrolling */
+::-webkit-scrollbar{
+    width: 5px;
+}
+
+.bookCatalog::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background-color: black;
+}
+
+.bookCatalog::-webkit-scrollbar-track{
+    background: rgba(128, 128, 128, 0.436);
+}
  
