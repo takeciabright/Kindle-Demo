@@ -136,4 +136,13 @@ time, .toggleBtn{
 .bookCatalog::-webkit-scrollbar-track{
     background: rgba(128, 128, 128, 0.436);
 }
- 
+
+.books{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    row-gap: 10px;
+    column-gap: 10px;
+}
