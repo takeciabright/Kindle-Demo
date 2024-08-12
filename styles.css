@@ -99,6 +99,20 @@ time, .toggleBtn{
 .filterAndSort{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin-bottom: 15px;;
- }
+    margin-bottom: 15px;
+}
+
+.filterBy{
+    display: flex;
+    justify-self: start;
+    width: 20px;
+    margin-left: 30px;
+}
+
+.sortBy{
+    display: flex;
+    justify-self: end;
+    width: 20px;
+    margin-right: 25px;
+}
  
