@@ -95,3 +95,10 @@ time, .toggleBtn{
     font-size: 18px;
     bottom: 5px;
 }
+
+.filterAndSort{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 15px;;
+ }
+ 
