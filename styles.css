@@ -150,3 +150,12 @@ time, .toggleBtn{
 .books img{
     width: 195px;
 }
+
+.homeBar{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-content: center;
+    justify-items: center;
+    border-top: 2px solid black;
+    height: 55px;
+}
