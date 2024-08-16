@@ -5,6 +5,12 @@ body{
     justify-content: center;
 }
 
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+
 .container {
     display: grid;
     justify-content: center; 
