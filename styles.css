@@ -159,3 +159,11 @@ time, .toggleBtn{
     border-top: 2px solid black;
     height: 55px;
 }
+
+.homeBar p, .library{
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    font-family: Cabin-Bold;
+    font-size: 20px;
+}
