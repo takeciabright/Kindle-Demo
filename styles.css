@@ -101,6 +101,19 @@ time, .toggleBtn{
     height: 20px;
 }
 
+input{
+    width: 455px;
+    height: 45px;
+    border: none;
+    font-size: 16px;
+    font-family: Cabin-Bold;
+}
+
+input::placeholder{
+    position: absolute;
+    color: black;
+}
+
 .shoppingCart{
     width: 20px;
 }
