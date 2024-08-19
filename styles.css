@@ -73,6 +73,17 @@ li{
     list-style: none;
 }
 
+.dropDownMenuList{
+    position: absolute;
+    top: 80px;
+    width: 700px;
+    z-index: 1;
+    max-height: 0;
+    background-color: #fff;
+   /* overflow: hidden;
+    transition: max-height 0.2s ease-in-out; */
+}
+
 .bluetooth, .wifi, .battery{
     display: flex;
     align-self: center;
