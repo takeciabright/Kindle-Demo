@@ -185,3 +185,13 @@ time, .toggleBtn{
 .library{
     border-bottom: 3px solid black;
 }
+
+.logo{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    margin: 0;
+    font-family: Cabin-Reg;
+    font-size: 40px;
+    color: #ffffff61;
+}
