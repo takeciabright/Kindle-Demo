@@ -59,6 +59,20 @@ time, .toggleBtn{
     cursor: pointer;
 }
 
+/* Drop Down Menu */
+ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 30px;
+    text-align: center;
+    row-gap: 60px;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+}
+
 .bluetooth, .wifi, .battery{
     display: flex;
     align-self: center;
