@@ -1,3 +1,17 @@
+@font-face {
+    font-family: "Cabin-Bold";
+    src: url(fonts/Cabin-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Cabin-Reg";
+    src: url(fonts/Cabin-Regular.ttf);
+    font-weight: thin;
+    font-style: normal;
+}
+
 body{
     margin: 0;
     display: flex;
