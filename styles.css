@@ -92,6 +92,10 @@ li{
     box-shadow: 0 319px rgba(54, 50, 56, 0.603);
 }
 
+a img{
+    width: 55px;
+}
+
 .bluetooth, .wifi, .battery{
     display: flex;
     align-self: center;
