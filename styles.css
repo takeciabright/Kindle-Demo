@@ -96,6 +96,12 @@ a img{
     width: 55px;
 }
 
+.offsetSync , .offsetSet{
+    position: relative;
+    top: 20px;
+    left: 117px;
+ }
+
 .bluetooth, .wifi, .battery{
     display: flex;
     align-self: center;
