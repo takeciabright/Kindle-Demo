@@ -75,9 +75,11 @@ li{
 
 .dropDownMenuList{
     position: absolute;
-    top: 80px;
     width: 700px;
+    margin-top: 76.8px;
+    top: 0;
     z-index: 1;
+    height: 500px;
     max-height: 0;
     background-color: #fff;
     overflow: hidden;
@@ -85,10 +87,8 @@ li{
 }
 
 .dropDownMenuList.active{
-    margin-top: 35px;
-    padding-top: 43px;
-    height: 500px;
     max-height: 500px;
+    padding-top: 15px;
     box-shadow: 0 319px rgba(54, 50, 56, 0.603);
 }
 
@@ -100,7 +100,7 @@ a img{
     position: relative;
     top: 20px;
     left: 117px;
- }
+}
 
 .bluetooth, .wifi, .battery{
     display: flex;
